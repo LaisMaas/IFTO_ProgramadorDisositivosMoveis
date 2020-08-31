@@ -1,2 +1,2 @@
-# IFTO_ProgramadorDisositivosMoveis
+# IF_ProgDispositivosMoveis
 Programação de dispositivos móveis com a tecnologia JAVA.
