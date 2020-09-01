@@ -1,2 +1,2 @@
 # IF_ProgJogos
-Programação de jogos com a tecnologia C#.
+Programação de jogos com a tecnologia C Sharp.
