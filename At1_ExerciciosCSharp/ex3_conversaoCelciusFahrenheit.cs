@@ -17,7 +17,8 @@ namespace ConsoleApp3
             grausFahrenheit = (9 * grausCelsius + 160) / 5;
 
             Console.WriteLine("Os graus convertido em Fahrenheit e´: {0}", grausFahrenheit);
-
+            console.WriteLine("Clique em ENTER para sair")
+            console.ReadLine();
         }
     }
 }

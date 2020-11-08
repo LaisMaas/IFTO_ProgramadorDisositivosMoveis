@@ -23,6 +23,8 @@ namespace ConsoleApp5
             Console.WriteLine("A quantidade de litros de combustível consumido no trajeto foi de: {0}", tempoP);
             Console.WriteLine("A quantidade de litros de combustível consumido no trajeto foi de: {0}", distanciaPercorrida);
             Console.WriteLine("A quantidade de litros de combustível consumido no trajeto foi de: {0}", litrosGastos);
+            console.WriteLine("Clique em ENTER para sair")
+            console.ReadLine();
         }
     }
 }

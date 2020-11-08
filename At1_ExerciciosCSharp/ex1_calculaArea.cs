@@ -23,7 +23,8 @@ namespace ConsoleApp2
             areaT = (baseT * alturaT) / 2;
 
             Console.WriteLine("A área do triângulo é: {0}", areaT);
-
+            console.WriteLine("Clique em ENTER para sair")
+            console.ReadLine();
         }
     }
 }
