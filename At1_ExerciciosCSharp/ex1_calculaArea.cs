@@ -3,7 +3,7 @@
 
 using System;
 
-namespace ConsoleApp2
+namespace CalculaArea
 {
     class Program
     {

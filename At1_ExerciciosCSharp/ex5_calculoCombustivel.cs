@@ -2,7 +2,7 @@
 
 using System;
 
-namespace ConsoleApp5
+namespace CalculoCombustivel.
 {
     class Program
     {

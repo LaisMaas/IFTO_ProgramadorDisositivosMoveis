@@ -3,7 +3,7 @@
 
 using System;
 
-namespace ConsoleApp4
+namespace FahrenheitParaGrausCelsius
 {
     class Program
     {

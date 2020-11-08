@@ -2,7 +2,7 @@
 
 using System;
 
-namespace ConsoleApp3
+namespace ConversaoCelciusFahrenheit
 {
     class Program
     {
