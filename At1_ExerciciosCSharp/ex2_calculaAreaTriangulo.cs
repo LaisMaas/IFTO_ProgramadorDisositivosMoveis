@@ -1,9 +1,8 @@
-/*1) Faça um algoritmo para calcular a área de uma circunferência, considerando a fórmula ÁREA = π * RAIO². Utilize as variáveis AREA e RAIO, a constante π (pi = 3,14159) e os operadores aritméticos de multiplicação. *
-0 pontos*/
+/*Faça um algoritmo que calcule a área de um triângulo, considerando a fórmula ÁREA = (BASE * ALTURA)/2. Utilize as variáveis AREA, BASE e ALTURA e os operadores aritméticos de multiplicação e divisão. */
 
 using System;
 
-namespace ConsoleApp2
+namespace calculaAreaTriangulo
 {
     class Program
     {
