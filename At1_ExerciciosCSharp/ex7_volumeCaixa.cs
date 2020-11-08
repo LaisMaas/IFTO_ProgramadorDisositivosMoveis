@@ -22,6 +22,8 @@ namespace ConsoleApp7
             volume = comprimento * altura * largura;
 
             Console.WriteLine("O volume deste objeto é: ", volume);
+            console.WriteLine("Clique em ENTER para sair")
+            console.ReadLine();
         }
     }
 }

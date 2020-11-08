@@ -21,6 +21,8 @@ namespace TrocaValores
             num2 = variavelAux;
 
             Console.WriteLine("A ordem inversa dos números informados são: {0} {1}", num1, num2);
+            console.WriteLine("Clique em ENTER para sair")
+            console.ReadLine();
         }
     }
 }
