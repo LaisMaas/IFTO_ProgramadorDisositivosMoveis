@@ -15,6 +15,18 @@ namespace RepetirFrase
                 contador = contador + 3;
             }
             console.WriteLine(contador, "Clique em ENTER para sair")
+            console.ReadLine();  
+
+
+
+            //Declarando as variáveis
+            int contador = 20;
+
+            while(contador < 12){
+                console.WriteLine("A prática leva a perfeição.");
+                contador = contador + 3;
+            }
+            console.WriteLine(contador, "Clique em ENTER para sair")
             console.ReadLine();    
         }
     }
